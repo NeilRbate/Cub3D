@@ -1,0 +1,13 @@
+NO ./texture/mur-bleu.xpm
+SO ./texture/mur-rouge.xpm
+WE ./texture/mur-vert.xpm
+EA ./texture/mur-jaune.xpm
+C 120,200,250
+F 40,40,40
+
+1111111111
+1010000001
+1010011111
+1010001001
+1000N00001
+1111111111
